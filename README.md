@@ -1,2 +1,2 @@
 # hello-world
-test test test
+Hi this is a new idea, try to add it.
